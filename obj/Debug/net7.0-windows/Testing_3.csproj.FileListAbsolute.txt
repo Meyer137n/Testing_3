@@ -1,0 +1,17 @@
+C:\Users\taych\OneDrive\Рабочий стол\Testing_3\bin\Debug\net7.0-windows\Testing_3.exe
+C:\Users\taych\OneDrive\Рабочий стол\Testing_3\bin\Debug\net7.0-windows\Testing_3.deps.json
+C:\Users\taych\OneDrive\Рабочий стол\Testing_3\bin\Debug\net7.0-windows\Testing_3.runtimeconfig.json
+C:\Users\taych\OneDrive\Рабочий стол\Testing_3\bin\Debug\net7.0-windows\Testing_3.dll
+C:\Users\taych\OneDrive\Рабочий стол\Testing_3\bin\Debug\net7.0-windows\Testing_3.pdb
+C:\Users\taych\OneDrive\Рабочий стол\Testing_3\obj\Debug\net7.0-windows\Testing_3.csproj.AssemblyReference.cache
+C:\Users\taych\OneDrive\Рабочий стол\Testing_3\obj\Debug\net7.0-windows\Testing_3.Form1.resources
+C:\Users\taych\OneDrive\Рабочий стол\Testing_3\obj\Debug\net7.0-windows\Testing_3.csproj.GenerateResource.cache
+C:\Users\taych\OneDrive\Рабочий стол\Testing_3\obj\Debug\net7.0-windows\Testing_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taych\OneDrive\Рабочий стол\Testing_3\obj\Debug\net7.0-windows\Testing_3.AssemblyInfoInputs.cache
+C:\Users\taych\OneDrive\Рабочий стол\Testing_3\obj\Debug\net7.0-windows\Testing_3.AssemblyInfo.cs
+C:\Users\taych\OneDrive\Рабочий стол\Testing_3\obj\Debug\net7.0-windows\Testing_3.csproj.CoreCompileInputs.cache
+C:\Users\taych\OneDrive\Рабочий стол\Testing_3\obj\Debug\net7.0-windows\Testing_3.dll
+C:\Users\taych\OneDrive\Рабочий стол\Testing_3\obj\Debug\net7.0-windows\refint\Testing_3.dll
+C:\Users\taych\OneDrive\Рабочий стол\Testing_3\obj\Debug\net7.0-windows\Testing_3.pdb
+C:\Users\taych\OneDrive\Рабочий стол\Testing_3\obj\Debug\net7.0-windows\Testing_3.genruntimeconfig.cache
+C:\Users\taych\OneDrive\Рабочий стол\Testing_3\obj\Debug\net7.0-windows\ref\Testing_3.dll
