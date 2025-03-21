@@ -398,3 +398,12 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Visual Studio папки и файлы
+.vs/
+bin/
+obj/
+
+# Конкретная папка Debug
+bin/Debug/
+bin/Debug/net7.0-windows/
