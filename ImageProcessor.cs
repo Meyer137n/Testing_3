@@ -10,5 +10,9 @@ namespace Testing_3
 {
     internal class ImageProcessor
     {
+         public Image LoadImage(string path)
+        {
+            return Image.FromFile(path);
+        }
     }
 }
