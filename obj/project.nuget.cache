@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "nSYalXbxRUGZHOXU3HVK6t7O1oTMVS7sCkxQcaeTAKbkH/cY7y9AE1cESly6rxZrtQfLjYIhMndIrHhIYAkFnA==",
+  "dgSpecHash": "zjrQ1JGFtIQtJFamGAZRNTIEC02qd+fb9Jj7MShAcEZG7828S/L1k/HQ0GX9sxCC7x9BzFS7rFdJNwNAK9Hsvg==",
   "success": true,
   "projectFilePath": "C:\\Users\\taych\\OneDrive\\Рабочий стол\\Testing_3\\Testing_3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\taych\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512",
+    "C:\\Users\\taych\\.nuget\\packages\\xunit\\2.9.3\\xunit.2.9.3.nupkg.sha512",
+    "C:\\Users\\taych\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\taych\\.nuget\\packages\\xunit.analyzers\\1.18.0\\xunit.analyzers.1.18.0.nupkg.sha512",
+    "C:\\Users\\taych\\.nuget\\packages\\xunit.assert\\2.9.3\\xunit.assert.2.9.3.nupkg.sha512",
+    "C:\\Users\\taych\\.nuget\\packages\\xunit.core\\2.9.3\\xunit.core.2.9.3.nupkg.sha512",
+    "C:\\Users\\taych\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512",
+    "C:\\Users\\taych\\.nuget\\packages\\xunit.extensibility.execution\\2.9.3\\xunit.extensibility.execution.2.9.3.nupkg.sha512"
+  ],
   "logs": []
 }
